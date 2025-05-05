@@ -1,6 +1,7 @@
 
-##Prazer, meu nickname é Holirun
-- 🇧🇷Sou um adolescente, gosto de jogar videogame
+##Prazer, meu nickname é Holirun👋
+
+- 🇧🇷Sou um adolescente, gosto de jogar videogame e ver filmes ⭐️
 - 👓Sou novo na programação, espero aprender muito este ano
 - 🙃Entre em contato comigo, meu email é: murilo.guarido.brito@escola.pr.gov.br
 
